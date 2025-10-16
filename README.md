@@ -4,4 +4,9 @@ Fitur utama + cara pakai : sederhana saja, saya menggunakan fitur utama yaitu se
 
 Struktur folder & teknologi : saya menyusun dengan kesesuaian nama seperti index.html kemudian style.css dan terakhir script.js dan juga folder yang berisi foto, untuk teknologi front end bahasa yang saya gunakan adalah html,css,dan javascript
 
+
+video presentasi youtube :
 https://youtu.be/qyMLIPXxL2A
+
+halaman page live via github pages:
+https://aryavira.github.io/utsdtp/
